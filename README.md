@@ -1,4 +1,4 @@
-# A Raspberry Pi Pico library for Si4702 / Si4703
+# Si4702 / Si4703 FM radio library for the Raspberry Pi Pico
 
 This library provides a convenient interface to the Si4702 and Si4703 FM radio chips from Silicon Labs. It targets the Raspberry Pi Pico and similar RP2040 based boards using the C/C++ SDK.
 
